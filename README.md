@@ -4,13 +4,6 @@ Just playing around
 
 IOC DIONS Wiki Outline
 
-Kind of modelled by:
-https://github.com/Netflix/Hystrix/wiki
-https://wiki.profittrailer.com/doku.php?id=start
-
-
-ALWAYS HAVE AN "UPDATED WHEN" SMALL LINE, LIKE BLOG POSTS HAVE
-
 ***MUST FIX ALL HYPERLINKS WHEN MOVING TO IOC OFFICIAL WIKI PAGE***
 
 Tabs
